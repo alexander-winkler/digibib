@@ -2,6 +2,10 @@
 
 Zusammenstellung von Informationen zur digitalen Bibliotheksarbeit.
 
+Es werden nur öffentlich zugängliche Ressourcen verwendet.
+Der Schwerpunkt liegt auf dem GBV und hier insbesondere bei der ULB Sachsen-Anhalt.
+Die Inhalte sollten sich aber mehr oder weniger leicht auf andere Anwendungsfälle adaptieren lassen.
+
 # Aufbau
 
 ## Praktische Tipps zur effizienteren Gestaltung der eigenen Arbeit:
@@ -23,6 +27,10 @@ Weitere Schnittstellen:
 - PAIA
 
 Informationen hierzu: <https://verbundwiki.gbv.de/display/VZG/Schnittstellen>
+
+## Zeitschriftendatenbank
+
+<https://www.zeitschriftendatenbank.de/services/schnittstellen/sru/>
 
 ## SRU-Syntax
 
