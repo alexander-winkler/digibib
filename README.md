@@ -6,6 +6,9 @@ Es werden nur öffentlich zugängliche Ressourcen verwendet.
 Der Schwerpunkt liegt auf dem GBV und hier insbesondere bei der ULB Sachsen-Anhalt.
 Die Inhalte sollten sich aber mehr oder weniger leicht auf andere Anwendungsfälle adaptieren lassen.
 
+Sehr nützlich ist der [Kurs von Felix Lohmeier](https://felixlohmeier.gitbooks.io/kurs-bibliotheks-und-archivinformatik/content/kapitel-3/32-ubertragungsprotokolle-sru-und-oai-pmh.html). 
+Vgl. auch die Tutorials der [DNB](https://www.dnb.de/DE/Professionell/Services/WissenschaftundForschung/DNBLab/dnblab_node.html)
+
 # Aufbau
 
 ## Praktische Tipps zur effizienteren Gestaltung der eigenen Arbeit:
