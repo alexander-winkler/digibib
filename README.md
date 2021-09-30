@@ -59,6 +59,18 @@ Als Suchparameter für die SRU-Schnittstelle stehen zur Verfügung:
 
 Abfrage erfolgt über HTTP-Request
 
+```python
 
+import requests
+
+endpoint = "<DATENBANK-URL>"
+params = { 'key' : <VALUE> ,
+...
+}
+resp = requests.get(endpoint, params = params, timeout = 10)
+
+```
+
+Für iterative Abfragen bietet es sich an, ein `timeout` zu definieren, da `requests.get` standardmäßig beliebig lange auf eine Antwort wartet und das Programm damit einfriert.
 
 [^1]: Bei SRU v. 1.2 erfolgt Sortierung durch CQL-Befehl, also durch Hinzüfügung von `sortby year =descending` zum Query-String.
