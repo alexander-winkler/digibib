@@ -34,6 +34,14 @@ Beispiele für vorgefertigte, komplexe Suchanfragen im OPAC (Bsp. auf der [FID-S
 
 Einen Überblick über die häufigsten Index-Typen und Such-Schlüssel bietet z.B. das Schulungsmaterial im K10Plus-Wiki, [Folie 36](https://wiki.k10plus.de/download/attachments/203128864/K10plusKatalogisierungsschulung-Teil1.pdf).
 
+### Neuerscheinungen im Blick durch RSS-Feeds
+
+Viele Blogs, Verlage und Bibliothekskataloge bieten die Möglichkeit, einen RSS-Feed einzurichten. Für das Ha:Lit-Discovery System der ULB Sachsen-Anhalt vgl. [meinen Blog-Beitrag](https://learnit.bibliothek.uni-halle.de/2021/03/bleiben-sie-immer-auf-dem-laufenden-mit-rss-feeds/).
+Einige bibliothekswissenschaftlich relevante RSS-Feeds habe ich [in diesem github-Repository](https://github.com/alexander-winkler/lisrss) gesammelt.
+
+Für Neuerscheinungen im deutschsprachigen Bereich empfiehlt es sich, die entsprechende Suchanfrage als RSS-Feed zu abonnieren (Tipp von [Philipp Zumstein auf Twitter](https://twitter.com/zuphilip/status/1324754044741734400)).
+Romanistische Neuerscheinungen (Hauptsachgruppen 440, 450 und 460) können z.B. [über diesen Link](https://portal.dnb.de/opac.atom?currentResultId=hsg+all+%22440%22+or+hsg+all+%22450%22+and+hsg+all+%22460%22%26any&method=search) abonniert werden.
+
 ## Schnittstellen zu Datenbanken
 
 - Übersicht der Datenbanken des GBV: <http://uri.gbv.de/database/>
