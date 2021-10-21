@@ -42,6 +42,26 @@ Einige bibliothekswissenschaftlich relevante RSS-Feeds habe ich [in diesem githu
 Für Neuerscheinungen im deutschsprachigen Bereich empfiehlt es sich, die entsprechende Suchanfrage als RSS-Feed zu abonnieren (Tipp von [Philipp Zumstein auf Twitter](https://twitter.com/zuphilip/status/1324754044741734400)).
 Romanistische Neuerscheinungen (Hauptsachgruppen 440, 450 und 460) können z.B. [über diesen Link](https://portal.dnb.de/opac.atom?currentResultId=hsg+all+%22440%22+or+hsg+all+%22450%22+and+hsg+all+%22460%22%26any&method=search) abonniert werden.
 
+### Effizientes Arbeiten mit E-Mails
+
+E-Mails sind trotz alternativer Chat- und Messenger-Lösungen ein zentrales Kommunikationsmedium.
+
+#### Wiedervorlage
+
+Nicht alle Mails erfordern eine unmittelbare Aktion.
+Vielmehr kann es sinnvoll sein, Mails auf Wiedervorlage zurückzustellen.
+
+Die geht in Thunderbird z.B. mit dem Tool [mailmindr](https://mailmindr.net/en//).
+Hier lassen sich für einzelne Mails benutzerdefinierte Erinnerungen einrichten oder z.B. zu einem gegebenen Zeitpunkt als als ungelesen markieren.
+
+### Anmerkungen zu Mails
+
+Kurze Hinweise zu Mails lassen sich über das Add-on [XNote++](https://github.com/xnotepp/xnote/wiki) hinzufügen.
+
+### Verzögertes Versenden einer Mail
+
+Sollten Mails erst zu einem bestimmten Zeitpunkt in der Zukunft verschickt werden, kann dieser mit dem [Send Later](https://github.com/Extended-Thunder/send-later/) bestimmt werden.
+
 ## Schnittstellen zu Datenbanken
 
 - Übersicht der Datenbanken des GBV: <http://uri.gbv.de/database/>
