@@ -62,6 +62,11 @@ Kurze Hinweise zu Mails lassen sich über das Add-on [XNote++](https://github.co
 
 Sollten Mails erst zu einem bestimmten Zeitpunkt in der Zukunft verschickt werden, kann dieser mit dem [Send Later](https://github.com/Extended-Thunder/send-later/) bestimmt werden.
 
+### Textbausteine per Shortcut einfügen
+
+Einem Tweet von [Prof. Meier-Vieracker](https://twitter.com/fussballinguist/status/1452981220799811594) verdanke ich die Anregung, typische Mail-Textbausteine (z.B. Gruß, Abschied) per Tastaturshortcut einzufügen.
+Ein geeignetes Thunderbird-Add-on hierfür ist [Quicktext](https://github.com/jobisoft/quicktext).
+
 ## Schnittstellen zu Datenbanken
 
 - Übersicht der Datenbanken des GBV: <http://uri.gbv.de/database/>
